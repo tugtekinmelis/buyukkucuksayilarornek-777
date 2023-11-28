@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\list ornek2-777\list ornek2-777\obj\Debug\list ornek2-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\list ornek2-777\list ornek2-777\obj\Debug\list ornek2-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\list ornek2-777\list ornek2-777\obj\Debug\list_ornek2_777.Form1.resources
+C:\Users\User\source\repos\list ornek2-777\list ornek2-777\obj\Debug\list_ornek2_777.Properties.Resources.resources
+C:\Users\User\source\repos\list ornek2-777\list ornek2-777\obj\Debug\list ornek2-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\list ornek2-777\list ornek2-777\obj\Debug\list ornek2-777.csproj.CoreCompileInputs.cache
